@@ -9,7 +9,7 @@ greater sorting and organization capabilities. The user is able to search and so
 available.
 
 # Modules used:
- Selenium Webdriver
+ Selenium Webdriver,
  BeautifulSoup
  
  # Tags:
