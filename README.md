@@ -13,6 +13,6 @@ available.
  BeautifulSoup
  
  # Tags:
- Automation
- Webscraper
+ Automation,
+ Webscraper,
  Python
