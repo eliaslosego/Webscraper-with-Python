@@ -8,11 +8,7 @@ website is limited and restricts sorting parameters to only a few specifications
 greater sorting and organization capabilities. The user is able to search and sort products available through the site by a greater range of specifications than was previously 
 available.
 
-# Modules used:
+# Technologies:
  Selenium Webdriver,
- BeautifulSoup
- 
- # Tags:
- Automation,
- Webscraper,
+ BeautifulSoup, 
  Python
